@@ -58,7 +58,7 @@ Contributions are always welcome!
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 ## Contact
 
-For any questions or support, please contact kashigarigayathri@gmail.com
+For any questions or support, please contact kashigarigayathri1129@gmail.com
 
 
 ## Installation
